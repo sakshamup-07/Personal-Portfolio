@@ -152,7 +152,7 @@ const projects = [
   {
     name: "Personal Portfolio",
     description:
-      "Personal portfolio created using Reacr,Tailwing and 3js.",
+      "Personal portfolio created using React,Tailwind and 3JS.",
     tags: [
       {
         name: "react",
