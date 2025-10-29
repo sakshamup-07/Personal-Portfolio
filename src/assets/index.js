@@ -34,6 +34,7 @@ import tripguide from "./tripguide.png";
 import images from "./company/images.jpg";
 import bit from "./company/bit.png";
 import freelancer from "./company/freelancer.png";
+import resan from "./resan.png";
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   bit,
   images,
   freelancer,
+  resan,
 };

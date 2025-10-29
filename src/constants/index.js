@@ -26,6 +26,7 @@ import {
   bit,
   images,
   freelancer,
+  resan,
 } from "../assets";
 
 export const navLinks = [
@@ -169,6 +170,28 @@ const projects = [
     ],
     image: ppss,
     source_code_link: "https://github.com/sakshamup-07/Personal-Portfolio.git",
+  },
+   
+  {
+    name: "Hirix",
+    description:
+      "Ai Resume Analyzer to asses your resume and check the ATS score with improvement feedback.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: resan,
+    source_code_link: "https://github.com/sakshamup-07/Hirix.git",
   },
   
 ];
